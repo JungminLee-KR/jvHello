@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="9b7291b3-acc4-4555-8622-bc29bb9ba367" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -122,11 +123,19 @@
         </subPane>
       </pane>
     </panes>
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="140" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="987" />
+>>>>>>> 901398f133ad9d6755db04f830043284da0eee6d
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,6 +163,16 @@
     <configuration name="jvHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.underslow.jvHelloWorld" />
       <module name="jvHello" />
+=======
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.underslow.Main" />
+      <module name="jvHello" />
+>>>>>>> 901398f133ad9d6755db04f830043284da0eee6d
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.underslow.*" />
@@ -164,6 +183,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.jvHelloWorld" />
@@ -264,4 +284,12 @@
       </provider>
     </entry>
   </component>
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> 901398f133ad9d6755db04f830043284da0eee6d
 </project>
